@@ -1,0 +1,12 @@
+name: SongwritingGuide
+title: SongwritingGuide
+username:
+account: abheekbiswas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 321521
+bundleId: 1317222
+url: https://abheekbiswas.shinyapps.io/SongwritingGuide/
+when: 1523623554.5398
+asMultiple: FALSE
+asStatic: FALSE
